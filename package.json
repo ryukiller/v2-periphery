@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "@ariswap/lib": "4.0.1-alpha",
-    "@ariswap/v2-core": "1.0.0"
+    "@ariswap/v2-core": "1.0.1"
   },
   "devDependencies": {
     "@types/chai": "^4.2.6",

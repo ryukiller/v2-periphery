@@ -21,7 +21,7 @@ library AriswapV2Library {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f' // init code hash
+                hex'1eee122b43202a389d5c7a1f2b802961236bea429102848435873eb1c2fe8445' // init code hash
             ))));
     }
 
